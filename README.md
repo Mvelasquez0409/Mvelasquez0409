@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Margaret
+- 👋 Hi, I’m Margaret or you can call me Maggie
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, R, SQL, DAX
 - 💞️ I’m looking to collaborate on Finance AI tools, 
